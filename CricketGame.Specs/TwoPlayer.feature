@@ -4,8 +4,6 @@
 	I want to be told the sum of two numbers
 
 @mytag
-	
-
 Scenario: Two Players Cricket Game starts with both the players having score zero
 	When Two Player Game starts
 	Then Player1 score should be 0
@@ -68,5 +66,5 @@ Scenario: When Player2 and Player1 both scores equal then it is tie
 	Given Player1 has scored 4
 	Given Player1 got out
 	Given Player2 has scored 4
-	Given Player2 got out
+	When Player2 gets out
 	Then The game is Tie
