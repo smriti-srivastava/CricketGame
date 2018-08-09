@@ -1,0 +1,15 @@
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\CriketGame.UnitTest.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\CriketGame.UnitTest.pdb
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\CricketGame.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\CricketGame.pdb
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\obj\Debug\CriketGame.Tests.csprojResolveAssemblyReference.cache
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\obj\Debug\CriketGame.Tests.csproj.CoreCompileInputs.cache
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\obj\Debug\CriketGame.UnitTest.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CriketGame.UnitTest\obj\Debug\CriketGame.UnitTest.pdb

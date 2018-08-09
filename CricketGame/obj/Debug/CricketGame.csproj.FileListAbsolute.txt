@@ -1,0 +1,6 @@
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\bin\Debug\CricketGame.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\bin\Debug\CricketGame.pdb
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.dll
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.pdb
+c:\users\ssrivastava\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
